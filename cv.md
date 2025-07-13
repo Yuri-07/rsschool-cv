@@ -1,3 +1,4 @@
+![[workingBear.jpg]]
 # Yuri Tumanov
 
 ---
