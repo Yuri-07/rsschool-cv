@@ -1,4 +1,4 @@
-![[workingBear.jpg]]
+![Avatar](workingBear.jpg)
 # Yuri Tumanov
 
 ---
