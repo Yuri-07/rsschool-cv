@@ -18,14 +18,14 @@ Aspiring developer driven by a passion for self-education and technology. Active
 
 ---
 ### Code Example:
-
+```
 function getSquareRoot(number) {
   if (number < 0) {
     return "Invalid number";
   }
   return Math.sqrt(number);
 }
-  
+```  
 ---
 ### Education:
 - Minsk State Higher Radio Engineering College. Information Technology.
