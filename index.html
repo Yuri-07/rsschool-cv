@@ -2,12 +2,22 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Yuri Tumanov � CV</title>
+  <title>Yuri Tumanov - CV</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
   <div class="container">
     <header>
+      <div class="menu"> 
+        <ul class="navi">
+          <li><a href="#About">About Me</a></li>
+          <li><a href="#Skills">Skills</a></li>
+          <li><a href="#Education">Education</a></li>
+          <li><a href="#Languages">Languages</a></li>
+          <li><a href="#Code Example">Code Example</a></li>
+        </ul>
+      </div>
       <h1>Yuri Tumanov</h1>
       <p>Aspiring Developer</p>
       <img src="workingBear.jpg" alt="Avatar of Yuri Tumanov" width="160">
@@ -18,7 +28,7 @@
     </header>
     <main>
       <section>
-        <h2>About Me</h2>
+        <h2 id="About">About Me</h2>
         <p>
           Aspiring developer driven by a passion for self-education and technology.
           Actively learning programming and mastering Git. I adapt quickly to new tools and approaches,
@@ -30,7 +40,7 @@
         <table style="width: 100%;">
           <tr valign="top">
             <td style="width: 50%;">
-              <h2>Skills</h2>
+              <h2 id="Skills">Skills</h2>
 		<ul>
   		<li>HTML</li>
   		<li>CSS</li>
@@ -41,9 +51,9 @@
 		</ul>
             </td>
             <td style="width: 50%;">
-              <h2>Education</h2>
+              <h2 id="Education">Education</h2>
               <p>Minsk State Higher Radio Engineering College &ndash; Information Technology.</p>
-              <h2>Languages</h2>
+              <h2 id="Languages">Languages</h2>
               <ul>
                 <li>Russian &ndash; Native</li>
                 <li>English &ndash; Beginner (reading + dictionary)</li>
@@ -53,7 +63,7 @@
         </table>
       </section>
       <section>
-        <h2>Code Example</h2>
+        <h2 id="Code Example">Code Example</h2>
         <pre>
 function getSquareRoot(number) {
   if (number < 0) {
