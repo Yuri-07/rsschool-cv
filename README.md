@@ -1,0 +1,3 @@
+My CV on GitHub Pages: [https://Yuri-07.github.io/rsschool-cv/cv](https://Yuri-07.github.io/rsschool-cv/cv)
+---
+https://Yuri-07.github.io/rsschool-cv/
